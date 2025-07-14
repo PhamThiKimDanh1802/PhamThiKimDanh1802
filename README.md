@@ -1,7 +1,5 @@
-## Hi,i'm Danh ✨
+##### Hi,i'm Danh ✨
 
-
--  🐱‍💻 I’m Intern AI Computer Vision 
 # 💫 About Me:
 I’m Intern AI Computer Vision 
 
